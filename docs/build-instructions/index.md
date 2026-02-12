@@ -34,9 +34,9 @@ After logging in to the snapcraft store
 You need to have `flatpak` and `flatpak-builer` installed in your system.
 Install the freekdesktop platforms and the runtime:
 ```
-flatpak install flathub org.freedesktop.Platform//22.08
-flatpak install flathub org.freedesktop.Sdk//22.08
-flatpak install flathub org.electronjs.Electron2.BaseApp//22.08
+flatpak install flathub org.freedesktop.Platform//25.08
+flatpak install flathub org.freedesktop.Sdk//25.08
+flatpak install flathub org.electronjs.Electron2.BaseApp//25.08
 ```
 
 ### Windows
